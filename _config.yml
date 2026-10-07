@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://schrottbotengineering.github.io"
+url: "https://dososcode.github.io"
 
 github:
   username: schrottbotEngineering # change to your GitHub username
@@ -36,7 +36,7 @@ social:
   email: example@domain.com 
   fediverse_handle: 
   links:
-    - https://github.com/schrottbotEngineering
+    - https://github.com/doSosCode/dososcode.github.io
 
 # Site Verification Settings
 webmaster_verifications:
@@ -92,7 +92,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://schrottbotengineering.github.io/chirpy-website/assets/img/logo.png"
+avatar: "https://dososcode.github.io/assets/img/logo.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
