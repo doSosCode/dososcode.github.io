@@ -7,9 +7,6 @@ Gemfile.lock
 .jekyll-cache
 .jekyll-metadata
 _site
-_tabs/archives.md
-_tabs/categories.md
-_tabs/tags.md
 
 # RubyGems
 *.gem
