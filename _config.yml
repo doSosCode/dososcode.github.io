@@ -36,7 +36,7 @@ social:
   email: example@domain.com 
   fediverse_handle: 
   links:
-    - https://github.com/doSosCode/dososcode.github.io
+    - https://github.com/schrottbotEngineering
 
 # Site Verification Settings
 webmaster_verifications:
@@ -92,7 +92,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://dososcode.github.io/assets/img/logo.png"
+avatar: "https://github.com/doSosCode/schrottbot/tree/main/assets/img/icon.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -154,7 +154,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "/"
+baseurl: "/schrottbot/"
 
 # ------------ The following options are not recommended to be modified ------------------
 
