@@ -50,8 +50,7 @@ Entwicklungs- und Testumgebung
 „Ich kümmere mich darum, dass unser Schrotti versteht, was wir ihm mit unseren Händen sagen.“</details>
 <details>
 <summary>Kristina</summary>
-Grundfunktionen und Integration des Rovers
-</details>
+"Ich bin bei der Roverentwicklung und kümmere mich hauptsächlich darum, dass der Rover Farben erkennt."</details>
 <details>
 <summary>Theresa</summary>
 "Ich bin dafür zuständig, dass unser Rover unsere handschriftlichen Zeichen erkennen kann."</details>
