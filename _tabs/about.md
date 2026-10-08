@@ -12,8 +12,7 @@ order: 4
 
 <details>
 <summary>Mariusz</summary>
-Architektur und Hardwarebedarf
-</details>
+"There are no problems, only solutions"</details>
 <details>
 <summary>Sascha</summary>
 Architektur und Hardwarebedarf
