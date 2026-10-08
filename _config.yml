@@ -228,3 +228,7 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+instagram:
+  profile_url: https://www.instagram.com/schrotti_eng/
+  widget_src: <iframe src="https://widgets.sociablekit.com/instagram-feed/iframe/25720539" frameborder="0" width="100%" height="100%"></iframe>

@@ -1,0 +1,9 @@
+<div class="insta" data-src="{{ site.instagram.widget_src }}">
+  <div class="insta__consent">
+    <p>Beim Laden des Feeds werden Daten an SociableKIT und Meta übertragen. Mehr dazu in der <a href="{{ '/datenschutz/' | relative_url }}">Datenschutzerklärung</a>.</p>
+    <button type="button" class="btn btn-outline-primary insta__btn">Instagram-Feed laden</button>
+    <p><a href="{{ site.instagram.profile_url }}" target="_blank" rel="noopener">Direkt zu Instagram</a></p>
+  </div>
+  <div class="insta__feed" hidden></div>
+</div>
+<script src="{{ '/assets/js/instagram-consent.js' | relative_url }}" defer></script>
