@@ -11,7 +11,7 @@
     frame.title = 'Instagram-Feed';
     frame.loading = 'lazy';
     frame.setAttribute('scrolling', 'no');
-    frame.style.cssText = 'width:100%;min-height:600px;border:0;';
+    frame.style.cssText = 'width:100%;min-height:600px;border:0;color-scheme:normal;background:transparent;';
     feed.appendChild(frame);
     consent.hidden = true;
     feed.hidden = false;
